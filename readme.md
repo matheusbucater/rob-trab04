@@ -57,7 +57,7 @@ uso: python main.py d1 theta1 a1 alpha1 d2 theta2 a2 alpha
  - alpha1      torção do elo 1
  - d2          offset da junta 2
  - theta2      angulo da junta 2
- - a2          comprimento do elo 1
+ - a2          comprimento do elo 2
  - alpha2      torção do elo 2
 ```
 
